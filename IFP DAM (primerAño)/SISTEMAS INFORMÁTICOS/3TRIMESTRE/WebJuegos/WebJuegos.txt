@@ -1,0 +1,14 @@
+PARA EL JAVASCRIPT 
+
+(PROPOSITO DE QUE ESTEN LOS JUEGOS Y AL SELECCIONAR TE APAREZCAN LOS DATOS)
+
+1-Hacer el HTML Y CSS
+2-Pintar el HTML desde JavaScript
+3-Cambiar los datos por variables
+	<h2>FIFA</h2> -> <h2>${nombre}</h2>
+4-Sacar los datos del primer juego
+	<h2>${juegos[0].nombre}
+5.Recorrer todos los juegos
+	juegos.forEch(juego=> {
+		<h2>${juego.nombre}
+		})

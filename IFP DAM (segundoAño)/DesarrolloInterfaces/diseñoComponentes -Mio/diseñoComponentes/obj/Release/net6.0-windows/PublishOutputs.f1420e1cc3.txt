@@ -1,0 +1,5 @@
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\diseñoComponentes -Mio\diseñoComponentes\bin\Release\net6.0-windows\app.publish\diseñoComponentes.exe
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\diseñoComponentes -Mio\diseñoComponentes\bin\Release\net6.0-windows\app.publish\diseñoComponentes.dll
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\diseñoComponentes -Mio\diseñoComponentes\bin\Release\net6.0-windows\app.publish\diseñoComponentes.deps.json
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\diseñoComponentes -Mio\diseñoComponentes\bin\Release\net6.0-windows\app.publish\diseñoComponentes.runtimeconfig.json
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\diseñoComponentes -Mio\diseñoComponentes\bin\Release\net6.0-windows\app.publish\diseñoComponentes.pdb

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>cloud_weather_icon_261524.ico</ApplicationIcon>
+    <Title>Aplicacion Consola Yeismil</Title>
+    <Version>1.0.0.1</Version>
+    <Authors>yeismil</Authors>
+    <Company>YeismilSA</Company>
+    <Product>Juegos</Product>
+    <Copyright>YeismilSA</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="cloud_weather_icon_261524.ico" />
+  </ItemGroup>
+
+</Project>

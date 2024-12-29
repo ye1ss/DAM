@@ -1,0 +1,14 @@
+EJ1.
+Jose#sanz#gonzalez#calleislas#madrid#672791479#Pedro#hermandez#jimenez#callerio#barcelona#672864179#Raul#lezcano#rosario#callerosa#sevilla#656791479#carlos#campos#feliz#callelapaz#granada#646893479# 
+maria#casar#raposo#callecopera#murcia#699951445#mario#jimili#martin#callesamba#tarragona#600891467#rafael#aviles#calleja#callechango#zaragoza#600793339#richar#ureña#ponz#callepilar#asturias#678771332# 
+rolando#enrrique#gonzi#callenavarra#valencia#622397759#herman#ronaldo#messi#calledelfuego#malaga#670791876# 
+
+EJ2.
+nombre(15 espacios q dejo) 
+apellidos(25)
+dirección(15)
+ciudad(13)
+telefono(9)
+TODO ESTO DA 77 ESPACIOS PARA CADA PERSONA   OSEA DEL  0 AL 78  DEL 79 AL 157....
+
+EJ3.

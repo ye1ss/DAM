@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE albumesMortadelo SYSTEM "TareaMortadelo1.dtd">
+
+<albumesMortadelo>
+    <album>
+        <nombre>"El sulfato atómico"</nombre>
+        <fecha>1969</fecha>    
+    </album>
+    <album>
+        <nombre>"La caja de diez cerrojos"</nombre>
+        <fecha>"1971"</fecha>
+    </album> 
+    
+    <album>
+        <nombre>"El otro yo del profesor Bacterio"</nombre>
+        <fecha>"1973"</fecha>
+    </album> 
+    <album>
+        <nombre>"Los cacharros majaretas"</nombre>
+        <fecha>"1974"</fecha>
+    </album> 
+</albumesMortadelo>
+
+
+<!--
+    Opción 1. 
+    Genera un DTD interno que valide el código XML anterior 
+    El atributo fecha puede tomar un valor entre el rango de años de 1969 a 1974
+    Comprueba tu solución en el validador
+-->
+
+<!-- 
+    Opción 2.
+    Cambia el XML para que nombre y fecha sean etiquetas
+    Genera un DTD externo
+        La etiqueta fecha es opcional
+    Comprueba tu solución en el navegador
+
+-->

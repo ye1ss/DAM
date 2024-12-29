@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<temporada xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="rugby.xsd" año="2002">
+    <jornada numero="1">
+        <partido numero="1">
+            <fecha>2000-02-02</fecha>
+            <estadio espectadores="46900">Landsdowne Road</estadio>
+            <local>Irlanda</local>
+            <visitante>Inglaterra</visitante>
+            <resultado local="23" visitante="8"/>
+        </partido>
+        <partido numero="2">
+            <fecha>2000-02-03</fecha>
+            <estadio>El parque de los principes</estadio>
+            <local>Francia</local>
+            <visitante>Gales</visitante>
+            <aplazado/>
+        </partido>
+        <partido numero="3">
+            <fecha>2000-02-03</fecha>
+            <estadio>Estadio Olimpico de Roma</estadio>
+            <local>Italia</local>
+            <visitante>Escocia</visitante>
+            <resultado local="2" visitante="20"/>
+        </partido>
+    </jornada>
+    <jornada numero="2">
+        <partido numero="1">
+            <fecha>2000-02-10</fecha>
+            <estadio espectadores="56000">Parque de los principes</estadio>
+            <local>Francia</local>
+            <visitante>Inglaterra</visitante>
+            <resultado local="15" visitante="20"/>
+        </partido>
+        <partido numero="2">
+            <fecha>2000-02-10</fecha>
+            <estadio>Landsdowne Road</estadio>
+            <local>Irlanda</local>
+            <visitante>Escocia</visitante>
+            <aplazado/>
+        </partido>
+        <partido numero="3">
+            <fecha>2000-02-11</fecha>
+            <estadio espectadores="0">Millennium Stadium</estadio>
+            <local>Gales</local>
+            <visitante>Italia</visitante>
+            <aplazado/>
+        </partido>
+    </jornada>
+    <jornada numero="3">
+        <partido numero="1">
+            <fecha>2000-02-02</fecha>
+            <estadio espectadores="80000">Murrayfield</estadio>
+            <local>Escocia</local>
+            <visitante>Inglaterra</visitante>
+            <resultado local="23" visitante="6"/>
+        </partido>
+        <partido numero="2">
+            <fecha>2000-02-03</fecha>
+            <estadio espectadores="45000">El parque de los principes</estadio>
+            <local>Francia</local>
+            <visitante>Italia</visitante>
+            <resultado local="3" visitante="34"/>
+        </partido>
+        <partido numero="3">
+            <fecha>2000-02-03</fecha>
+            <estadio>Landsdowne Road</estadio>
+            <local>Irlanda</local>
+            <visitante>Gales</visitante>
+            <aplazado/>
+            
+        </partido>
+    </jornada>
+    <jornada numero="4">
+        <partido numero="1">
+            <fecha>2000-02-02</fecha>
+            <estadio espectadores="46900">Landsdowne Road</estadio>
+            <local>Italia</local>
+            <visitante>Inglaterra</visitante>
+            <resultado local="12" visitante="18"/>
+        </partido>
+        <partido numero="2">
+            <fecha>2000-02-03</fecha>
+            <estadio>El parque de los principes</estadio>
+            <local>Francia</local>
+            <visitante>Gales</visitante>
+            <aplazado/>
+        </partido>
+        <partido numero="3">
+            <fecha>2000-02-03</fecha>
+            <estadio>El parque de los principes</estadio>
+            <local>Francia</local>
+            <visitante>Gales</visitante>
+            <aplazado/>
+        </partido>
+    </jornada>
+    <jornada numero="5">
+        <partido numero="1">
+            <fecha>2000-02-02</fecha>
+            <estadio espectadores="46900">Landsdowne Road</estadio>
+            <local>Irlanda</local>
+            <visitante>Inglaterra</visitante>
+            <resultado local="11" visitante="2"/>
+        </partido>
+        <partido numero="2">
+            <fecha>2000-02-03</fecha>
+            <estadio>El parque de los principes</estadio>
+            <local>Francia</local>
+            <visitante>Gales</visitante>
+            <aplazado/>
+        </partido>
+        <partido numero="3">
+            <fecha>2000-02-03</fecha>
+            <estadio>El parque de los principes</estadio>
+            <local>Francia</local>
+            <visitante>Gales</visitante>
+            <aplazado/>
+        </partido>
+    </jornada>
+</temporada>

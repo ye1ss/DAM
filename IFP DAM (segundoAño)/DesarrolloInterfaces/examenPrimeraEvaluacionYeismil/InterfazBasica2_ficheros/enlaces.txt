@@ -1,0 +1,8 @@
+Tutorial del ejercicio
+https://www.youtube.com/watch?v=Z7TfV7LZzp4
+
+Código de la aplicación
+https://rjcodeadvance.com/interfaz-grafico-de-usuario-modernista-multi-window-con-c-version-completa/
+
+Hacer ícono
+https://imagen.online-convert.com/es/convertir-a-ico

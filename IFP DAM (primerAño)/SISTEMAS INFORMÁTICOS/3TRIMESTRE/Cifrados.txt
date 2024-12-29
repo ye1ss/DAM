@@ -1,0 +1,11 @@
+Cifrados:
+
+(este de aqui es el CIFRADO CESAR)
+(1) Wbjt b tvtqfoefs cbtft ef ebupt nvbibb :
+
+Lo que se hace es que si por ejemplo la primera letra del cifrado es la W pues la cambiamos por la que esta debajo en este caso la D.
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ZYXWVUTSRQPONMLKJIHGFEDCBA
+
+(2) 71358e904b474f4b4d39f579173e31793302db667ed753bee573c591c425c0cb :

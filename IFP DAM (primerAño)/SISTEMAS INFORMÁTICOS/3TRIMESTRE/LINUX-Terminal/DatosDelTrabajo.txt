@@ -1,0 +1,14 @@
+
+Hay que hacerlo desde linux y como no quiero instalar máquina vistual me descargo en PowerShell una extension por asi decir para poder poner los comandos, asi q
+escribir en PowerShell ( wsl --install -d ubuntu) una vez instalado eso ya puedo ejecutar comandos de Linux.
+
+Comandos Linux
+Ejercutar los comandos necesarios desde la terminal de Linux para realizar lo siguiente:
+Crear usuario: Luis
+Crear grupo: yamatai
+Crear carpeta: pepito
+Crear archivo: archivo.txt
+Dar permisos a carpeta y archivo: 777 - 740
+Poner como propietario del archivo a Luis
+
+Enviar un archivo word o pdf con capturas de la terminal.

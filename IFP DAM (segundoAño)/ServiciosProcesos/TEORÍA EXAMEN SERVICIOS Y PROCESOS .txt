@@ -1,0 +1,114 @@
+TEORÍA EXAMEN SERVICIOS Y PROCESOS 1TRIMESTRE
+
+----------------------------------------------------------------------------------------------------------------------
+
+PROGRAMA: Conjunto de instruciones que se pueden ejecutar en un ordenador.
+PROCESO: Programa que se ha cargado en la memoria del ordenador y está en proceso.
+
+PROCESOS CONCURRENTES: Varias ejecuciones al mismo tiempo pero no hay simultaniedad.
+PROCESOS PARALELOS: Varias instancias ejecutandose simultaniamente.
+
+MULTI PROCESO: Programas que ejecuten varios procesos a la vez.
+MULTI HILO: Programas que ejecuten varias tareas dentro de una misma.
+
+SERVICIO: Proceso que no interactua directamente con el usuario, si no con otros procesos.
+SERVICIO EN RED: Servicio que presta procesos remotos.
+SISTEMA MONOPROCESADOR: Sistema/Ordenador que solo dispone de un procesador para realizar su labor.
+SISTEMA DISTRIBUIDO: Sistema multiprocesador en el que los procesadores están distribuidos en varios ordenadores
+que se comunican a través de una red de comunicación.
+
+MULTITAREA: Ejecución de vatrios procesos en un unico procesador de manera simultanea.
+CAMBIO DE CONTEXTO: Cuando se para un proceso y se guarda para poder ejecutarlo en otro momento y
+otro proceso se ejecuta por el ahora.
+
+ESTADOS DE UN PROCESO: 
+-nuevo
+-terminado
+-listo
+-en ejecución
+-bloqueado
+
+PROGRAMACION DISTRIBUIDA: Programacion de software desde ordenadores distintos comunicados entre si por red.
+1.SOCKETS: Extremos de la comunicación
+2.RPC (Remote Procedure Call):  Se llama de cliente a servidor remotamente
+3.INVOCACION REMOTA DE OBJETOS: Objetos de diferentes procesos se comunican entre si.
+
+ESTADOS DE UN HILO:
+-new
+-runneable
+-blocked
+-dead
+
+TEST
+-metodo que arranca la ejecucion de un hilo: RUN
+
+-¿cual es el valor constante de norm_priority? 5
+
+-capas osi:
+	1.nivel físico
+	2.nivel de enlace
+	3.nivel de red
+	4.nivel de transporte
+	5.nivel de sesion
+	6.nivel de presentacion
+	7.nivel de aplicacion
+
+-
+
+-para que es redirectOutput: REDIRIGIR LA SALIDA ESTANDAR DE UN FICHERO
+
+-un proceso es un objeto estatico(se puede almacenar en un fichero binario): falso
+
+-metodo que envia bytes al stream: WRITE()
+
+-metodo devuelve argumentos de ProcessBuilder: LIST<String>command()
+
+-un proceso es un objeto dinamico se genera en la memoria principal y se ejecuta: VERDADERO
+
+-wairFor:todas son correctas
+
+-boolean isAlive?: COMPRUEBA SI EL PROCESO ESTA VIVO
+
+-metodo directory: ESTABLECE EL DIRECTORIO DE TRABAJO DEL PROCESSBUILDER
+
+-metodo clase Process envia bytes al stream: PIPE
+
+-que hace el metodo start() de la clase ProcessBuilder: INICIA UN NUEVO PROCESO
+
+-meetodo clase proces permite rediccionar la salida de un proceso: GET INPUT STREAM
+
+-para obtener objeto clase process se puede instanciar desde las clases: RUNTIME/PROCESSBUILDER
+
+-en java el metodo waitfor: TODAS SON CORRECTAS
+
+-un hilo pertenece a un grupo: VERDADERO
+
+-los hilos son las tareas mas simples detro de una app: VERADERO
+
+-mayoria procesos debe intervenir el Kernel para ofrecer proteccion de los recursos: VERDADERO
+
+-hilos demonio: VERDADERO
+
+-garantiza que los datos llegan conctandose y estableciando conexion logica: TCP
+
+-para crear URL invocamos openconnection: VERDADERO
+
+-el modelo TCP/IP esta basado en el modelo teorico: OSI
+
+-con que se utiliza serverSocket: TCP
+
+-a aque capa de TCP corresponde IP? NIVEL DE RED
+
+-a aque capa de TCP corresponde FTP, SMTP, HTTP? NIVEL DE APPLICACION
+
+-clase representa direcciones de internet: INETADDRESS
+
+-con que se utiliza datagramSoket: UDP
+
+-sistemes operativos planean a : CORTO, MEDIO Y LARGO PLAZO
+
+-un proceso bloqueado: SE PUEDE DESBLOQUEAR CUANDO TERMINA LA OPERACION ENTRADA SALIDA QUE TINE PENDIENTE
+
+-puerto HTTP: 80
+
+-que hace acept: acepta la peticion de acceso de un servidor

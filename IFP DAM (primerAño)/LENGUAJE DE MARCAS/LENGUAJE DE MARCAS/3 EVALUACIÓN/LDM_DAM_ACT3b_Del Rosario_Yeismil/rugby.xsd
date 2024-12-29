@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="temporada">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="jornada" minOccurs="5" maxOccurs="5">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="partido" maxOccurs="3">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="fecha" type="xs:date" />
+                                        <xs:element name="estadio">
+                                            <xs:complexType>
+                                                <xs:simpleContent>
+                                                    <xs:extension base="xs:string">
+                                                        <xs:attribute name="espectadores"
+                                                            type="tipoEspectador" default="0"/>
+                                                    </xs:extension>
+                                                </xs:simpleContent>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="local" type="tipoEquipo" />
+                                        <xs:element name="visitante" type="tipoEquipo" />
+                                        <xs:choice>
+                                            <xs:element name="resultado" minOccurs="0" maxOccurs="1">
+                                                <xs:complexType>
+                                                    <xs:attribute name="local" type="xs:integer"
+                                                        use="required" />
+                                                    <xs:attribute name="visitante" type="xs:integer"
+                                                        use="required" />
+                                                </xs:complexType>
+                                            </xs:element>
+                                            <xs:element name="aplazado" minOccurs="0" maxOccurs="1"/>
+                                        </xs:choice>
+                                    </xs:sequence>
+                                    <xs:attribute name="numero" type="xs:integer" use="required"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="numero" type="xs:integer" use="required" />
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute name="año" type="xs:integer" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:annotation>
+        <xs:documentation>
+            Restriccion espectadores
+        </xs:documentation>
+    </xs:annotation>
+    <xs:simpleType name="tipoEspectador">
+        <xs:restriction base="xs:integer">
+            <xs:minInclusive value="0"/>
+            <xs:maxInclusive value="80000"></xs:maxInclusive>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:annotation>
+        <xs:documentation>
+            equipos disponibles
+        </xs:documentation>
+    </xs:annotation>
+    <xs:simpleType name="tipoEquipo">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="Gales|Inglaterra|Irlanda|Francia|Escocia|Italia"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="tipoJornada">
+        <xs:restriction base="xs:integer">
+            <xs:enumeration value="1"/>
+            <xs:enumeration value="2"/>
+            <xs:enumeration value="3"/>
+            <xs:enumeration value="4"/>
+            <xs:enumeration value="5"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

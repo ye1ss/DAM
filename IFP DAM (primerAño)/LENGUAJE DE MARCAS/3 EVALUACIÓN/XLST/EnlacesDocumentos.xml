@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="EnlacesDocumentos.css" type="text/css"?>
+<?xml-stylesheet type="text/xsl" href="file:Libros.xsl"?>
+<componentes>
+    <titulo>Componentes de un ordenador</titulo>
+    <componente>
+        <item>Placa Base</item>
+        <fabricante>Asus</fabricante>
+        <modelo>P3B-F</modelo>
+        <precio>123.00</precio>
+    </componente>
+    <componente>
+        <item>Tarjeta de Video</item>
+        <fabricante>ATI</fabricante>
+        <modelo>All-in-Wonder Pro</modelo>
+        
+        <precio>160.00</precio>
+    </componente>
+    <componente>
+        <item>Tarjeta de sonido</item>
+        <fabricante>Creative Labs</fabricante>
+        <modelo>Sound Blaster Live</modelo>
+        <precio>80.00</precio>
+    </componente>
+    <componente>
+        <item>Monitor de 19 pulgadas</item>
+        <fabricante>LG Electronics</fabricante>
+        <modelo>995E</modelo>
+        <precio>290.00</precio>
+    </componente>
+    <componente>
+        <item>Mouse</item>
+        <fabricante>CSL</fabricante>
+        <modelo>30570</modelo>
+        <precio>40.00</precio>
+    </componente>
+    <componente>
+        <item>Teclado</item>
+        <fabricante>Logitech</fabricante>
+        <modelo>Wirless Español</modelo>
+        <precio>25.00</precio>
+    </componente>
+</componentes>

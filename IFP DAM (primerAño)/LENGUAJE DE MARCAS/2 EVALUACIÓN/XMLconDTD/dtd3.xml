@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE email [
+    <!ELEMENT email (para, cc?, cco?, asunto, cuerpo)>
+    <!ELEMENT para (#PCDATA)>
+    <!ELEMENT cc (#PCDATA)>
+    <!ELEMENT cco (#PCDATA)>
+    <!ELEMENT asunto (#PCDATA)>
+    <!ELEMENT cuerpo (#PCDATA)>
+]>
+<email>
+    <para>claseLD@ifp.es</para>
+    <cc>administracion@ifp.es</cc>
+    <cco>administracion@ifp.es</cco>
+    <asunto>Clase DTD</asunto>
+    <cuerpo>Estamos trabajando con DTD :-)</cuerpo>
+
+</email>

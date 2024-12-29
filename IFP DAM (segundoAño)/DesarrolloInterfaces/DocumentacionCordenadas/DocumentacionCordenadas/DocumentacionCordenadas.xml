@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DocumentacionCordenadas</name>
+    </assembly>
+    <members>
+        <member name="T:DocumentacionCordenadas.Point">
+            <summary>
+            Clase Point Yeismil
+            </summary>
+        </member>
+        <member name="M:DocumentacionCordenadas.Point.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Parámetros de x e y
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+        </member>
+        <member name="M:DocumentacionCordenadas.Point.GetCoordinates">
+            <summary>
+            
+            <example> Por ejemplo: </example>
+            <code>
+            Point p= new Point(3, 5);
+            p.GetCordinates();
+            </code>
+            <see cref="!:>GetCoordinates"/>
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

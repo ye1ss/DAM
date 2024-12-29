@@ -1,0 +1,14 @@
+YEISMIL DEL ROSARIO DAM
+
+(1)index.html -> listado.php
+==> Absoluta: /controllers/lista_productos/listado.php
+==› Relativa: controllers/lista_productos/listado.php
+(2)datos_cliente.php -> listado.php
+==> Absoluta: /controladores/lista_productos/listado.php
+==> Relativa: ../lista_productos/lista.php
+(3)redes_sociales.php -> facebook.png
+==› Absoluta: /imagenes/redes/facebook.png
+==) Relativa: ../../imagenes/redes/facebook.png
+(4)footer.css -> fondo.png
+==> Absoluta: /imagenes/footer/fondo.png
+==> Relativa: ../../imagenes/footer/fondo.png

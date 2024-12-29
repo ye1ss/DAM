@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE empresa SYSTEM "empresa.dtd">
+<empresa>
+    <empleado idempleado="R11">
+        <nombre>Raul</nombre>
+        <apellido>Lopez</apellido>
+    </empleado>
+</empresa>

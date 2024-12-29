@@ -1,0 +1,47 @@
+<arboles>
+
+    <arbol>
+        <nombre tipo="cientifico">Arce monspessulanum</nombre>
+        <nombre tipo="comun">Arce de Montpeller,Arce menor</nombre>
+        <vegetación>Caducifolio</vegetación>
+        <altura metrica="metros">6-10</altura>
+        <forma>Copa Esférica</forma>
+        <estructura>Tronco principal recto con bifurcaciones.  Remaje colgante</estructura>
+        <color estacion="primavera">Haz verde brillante, envéz verde blanquecino</color>
+        <resistencias condicion="heladas_fuertes">hasta -15ºC</resistencias>
+    </arbol>
+    
+    <arbol>
+        <nombre tipo="cientifico">Olea europea</nombre>
+        <nombre tipo="comun">Olivo</nombre>
+        <vegetación>Perenne</vegetación>
+        <altura metrica="metros">8-15</altura>
+        <forma>Copa Esférica</forma>
+        <estructura>Tronco principal irregular con bifurcaciones. Remaje tortuoso</estructura>
+        <color estacion="primavera">Haz verde oscuro, envéz verde plateado</color>
+        <resistencias condicion="heladas_fuertes">hasta -10ºC</resistencias>
+    </arbol>
+
+    <arbol>
+        <nombre tipo="cientifico">Platanus orientalis</nombre>
+        <nombre tipo="comun">Plátano</nombre>
+        <vegetación>Caducifolio</vegetación>
+        <altura metrica="metros">20-25</altura>
+        <forma>Copa ovoidal</forma>
+        <estructura>Tronco principal recto. Remaje expandido</estructura>
+        <color estacion="primavera">Haz verde medio, envez verde claro. Color en otoño: Ocre</color>
+        <resistencias condicion="heladas_fuertes">hasta -20ºC</resistencias>
+    </arbol>
+
+    <arbol>
+        <nombre tipo="cientifico">Quercus ilex</nombre>
+        <nombre tipo="comun">Encina</nombre>
+        <vegetación>Perenne</vegetación>
+        <altura metrica="metros">aprox.25</altura>
+        <forma>Copa esferica o eliptica irregular</forma>
+        <estructura>Tronco principal recto. Remaje tortuoso</estructura>
+        <color estacion="primavera">Plateado en hojas jóvenes.En hojas antiguas, haz verde oscuro, envéz plateado</color>
+        <resistencias condicion="heladas_fuertes">hasta -15ºC</resistencias>
+    </arbol>
+
+</arboles>  

@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<from>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        Usuario:
+        <input type="text" name="usuario"><br><br>
+        Password:
+        <input type="password" name="pass"><br><br>
+        Socio:
+        <input type="checkbox" name="essocio" checked ><br><br>
+        Sexo: <br>
+        <input type="radio" name="genero" value="H"checked>Hombre
+        <input type="radio" name="genero" value="M">Mujer <br><br>
+        Temas Preferidos: <br><br>
+        <input type="radio" name="asignatura" value="A"checked>Aventuras<br>
+        <input type="radio" name="asignatura" value="H">Histórica<br>
+        <input type="radio" name="asignatura" value="F">Ficción<br>
+        <input type="radio" name="asignatura" value="D">Dibujos <br>
+        Descuento:
+        <input name="descuento" value="15%" size="5" readonly><br><br>
+        Enviar fotografía:<br/>
+        <input type="file" name="Fichero" accept="application/x-zip-compressed"><br/><br/>
+        <input type="hidden" name="fecha" value="20/10/2021"><br><br>
+       <!-- Botones con input type: <br/>
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Borrar">
+        <input type="button" value="Salir" onclick="alert(pulsaste salir de la pagina)";><br<br>
+       -->
+        Con buttons:<br/>
+        <button type="submit">Enviar</button>
+        <button type="reset">Borrar</button>
+        <button type="button" onclick="window.close();">Salir</button> <br/><br/>
+    </form>
+    Instrumente preferido: <br/>
+    <select name="instrumento"size="7" multiple>
+        <optgroup label="cuerda">
+            <option>cello</option>
+            <option>piano</option>
+            <option>guiarra</option>
+            <option>violin</option>
+        </optgroup>
+        <optgroup label="viento">
+            <option>flauta</option>
+            <option>oboe</option>
+            <option>trompeta</option>
+            <option>saxofón</option>
+        </optgroup>
+        <optgroup label="percusión">
+            <option>xilofón</option>
+            <option>batería</option>
+        </optgroup>
+    </select><br/><br/>
+    <Danos tu opinion: ></Danos><br>
+        <textarea name="opinion" id="idoption" cols="50" ></textarea> 
+</body>
+</html>

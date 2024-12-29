@@ -1,0 +1,7 @@
+cadena es ""
+lista es []
+tupla es ()
+conjunto es {}   set()
+pilas es []pop
+colas es deque
+diccionario es 

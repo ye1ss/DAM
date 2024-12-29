@@ -1,0 +1,2 @@
+pag para el link de plugin: https://jlavelle.uk/pfw/netbeans-ide/how-to-add-the-missing-plugins/
+carpeta descargar para añadir este fichero al plugin: https://stackoverflow.com/questions/62464233/netbeans-12-0-lts-hibernate-plugin-require-freemarker-integration-implementati

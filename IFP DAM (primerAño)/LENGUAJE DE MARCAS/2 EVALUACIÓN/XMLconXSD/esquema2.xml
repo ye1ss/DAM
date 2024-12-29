@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<otrasimple xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+ xsi:noNamespaceSchemaLocation="esquema1.xsd">
+    Otro XML simple
+</otrasimple>

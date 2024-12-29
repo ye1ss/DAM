@@ -1,0 +1,5 @@
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\PublicarVisualStudio\DiseñoComponentesModernista.exe
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\PublicarVisualStudio\DiseñoComponentesModernista.dll
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\PublicarVisualStudio\DiseñoComponentesModernista.deps.json
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\PublicarVisualStudio\DiseñoComponentesModernista.runtimeconfig.json
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\PublicarVisualStudio\DiseñoComponentesModernista.pdb

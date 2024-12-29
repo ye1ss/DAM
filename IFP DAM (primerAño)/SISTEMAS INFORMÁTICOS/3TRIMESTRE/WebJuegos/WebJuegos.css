@@ -1,0 +1,26 @@
+h1{
+    font-style:fantasy;
+    text-align: center;
+}
+
+body{
+    background-image:url(Imagenes/abstract-geometric.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+button{
+    background-color: rgb(69, 53, 139);
+    width: 55px;
+    height: 25px;
+}
+button{
+    background-color: rgb(69, 53, 139);
+    font-style:fantasy;
+    text-align: center;
+    width: 60px;
+    height: 30px;
+}
+.juego{
+    size: 50px;
+}

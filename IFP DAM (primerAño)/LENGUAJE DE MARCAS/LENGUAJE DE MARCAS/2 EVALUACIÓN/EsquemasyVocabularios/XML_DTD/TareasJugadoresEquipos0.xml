@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE futbol [
+  <!ELEMENT futbol ((jugador|equipo)*)>
+  <!ELEMENT jugador EMPTY>
+  <!ATTLIST jugador nombre NMTOKENS #REQUIRED>
+  <!ATTLIST jugador codigo ID #REQUIRED>
+  <!ELEMENT equipo EMPTY>
+  <!ATTLIST equipo nombre CDATA #REQUIRED>
+  <!ATTLIST equipo jugadores IDREFS #IMPLIED>
+]>
+
+<futbol>
+  <jugador nombre="Iker Casillas" codigo IK>
+  <jugador nombre="Cristiano Ronaldo" codigo="CR7" />
+  <jugador nombre="Sergio Ramos" codigo="SR" />
+  <jugador nombre="Andrés Iniesta" codigo="AI" />
+  <equipo nombre="Selección Española de Futbol" jugadores="IK|SR|AI|LM" />
+  <equipo "Real Madrid FC" jugadores="IK,CR7,SR" />
+<futbol>
+
+
+<!-- 
+    Corrige el código XML para que sea válido con el DTD
+    Valida que el código en un validador
+-->

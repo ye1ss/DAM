@@ -1,0 +1,7 @@
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\PublicarVS\DiseñoComponentesModernista.pdb
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\PublicarVS\D3DCompiler_47_cor3.dll
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\PublicarVS\PenImc_cor3.dll
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\PublicarVS\PresentationNative_cor3.dll
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\PublicarVS\vcruntime140_cor3.dll
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\PublicarVS\wpfgfx_cor3.dll
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\PublicarVS\DiseñoComponentesModernista.exe

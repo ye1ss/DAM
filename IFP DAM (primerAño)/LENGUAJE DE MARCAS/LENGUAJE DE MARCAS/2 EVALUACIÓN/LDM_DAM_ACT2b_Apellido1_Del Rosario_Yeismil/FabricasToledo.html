@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="FabricasToledo.css">
+    <title>Toledo</title>
+    
+    
+</head>
+<body>
+    <form>
+            
+    <table>
+         <tr>
+            <td><a href="https://turismo.toledo.es/" target="_blank"><img src="imagenes/imagen toledo.PNG"></a></td>
+             <td><h1>FÁBRICAS TOLEDO</h1></td>
+        </tr>
+    </table>
+                
+    <div>
+    <fieldset class="padre">
+         <legend>FORMULARIO DE PEDIDO</legend>
+        <label class="but"><b>>Paso 1. Identificación</b></label>
+    <table>
+        <tr>
+            <td><fieldset>
+                    <legend>Datos del cliente</legend>
+                <br>
+                    <label>Nombre</label><br/>
+                    <input type="text" name="name" class="put">
+                <br>
+                    <label>Apellidos</label><br>
+                    <input type="text" name="apellidos" class="put">
+                <br>
+                    <label for="correo">Correo</label><br>
+                            
+                    <label class="flizq">Electronico</label>
+                    <input type="email" class="mento" name="correo" id="correo" size="30"><br/>
+                            
+                <br>
+                    <label for="contrasena">contraseña</label>
+                    <input type="password" name="contrasena" id="contrasena" size="10"><br/>
+            </fieldset></td>
+            <td><fieldset  class="mini">
+                <br>
+                    <legend>Tipo de cliente</legend>
+                    <input type="radio" name="cliente" value="particular" id="particular" checked>
+                    <label for="particular">Particular</label><br/>
+                <br>
+                    <input type="radio" name="cliente" value="Asociacion" id="Asociacion">
+                    <label for="Asociacion">Asociación</label><br/>
+                <br>
+                    <input type="radio" name="cliente" value="Empresa" id="Empresa">
+                     <label for="Empresa">Empresa</label><br/>
+            </fieldset></td>
+                    </tr>
+</table>
+    <label class="but"><b>>Paso 2. Pedidos</b></label>
+        <table>
+            <tr>
+                <td>
+                    <fieldset class="mini3">
+                        <legend>Datos del producto</legend>
+                            <form>
+                                <label for="producto">Producto</label><br/>
+                                    <select id="producto" size="8" multiple="" name="producto">
+                                        <optgroup label="Armaduras" >
+                                            <option name="armaduras" value="Oro" selected>AR001 Oro Reluciente</option>
+                                            <option name="armaduras" value="plata">AR002 Plata Pulida</option>
+                                            <option name="armaduras" value="Bronze">AR003 Bronze Reforzado</option>
+                                        </optgroup>
+                                        <optgroup label="Extras">
+                                            <option name="Extra" value="Escudo" selected>EX001 Escudos</option>
+                                            <option name="Extra" value="Cota">EX002 Cota de malla</option>
+                                        </optgroup>
+                                    </select>
+                                </form>
+                            </fieldset>
+                        </td>
+                    <td>
+                    <fieldset>
+                        <legend>Información de interés</legend>
+                            <label for="comentario">Comentarios</label><br/>
+                            <textarea id="comentario" cols="50" rows="9" ></textarea>
+                            </fieldset>
+                    </td>
+                </tr>
+        </table>
+    <table>
+        <tr>
+            <td>
+                <fieldset>
+                    <legend>Datos de Envío</legend>
+                    <br>
+                    <label name="direccion">Dirección</label><br/>
+                    <input class="put" type="text" name="direccion" id="direccion" size="40"><br/>
+                    <br>
+                    <label for="ciudad">Ciudad</label>
+                    <input type="text" name="ciudad" id="ciudad"><br/>
+                    <br>
+                    <label>Pais</label>
+                    <input type="text" name="pais"><br/>
+                    <br>
+                    <label for="Codigo postal">Código postal</label>
+                    <input type="text" name="codigo postal" id="codigo postal" size="6">
+                </fieldset>
+            </td>
+        <td>
+            <fieldset class="mini2">
+                <legend>Datos bancarios</legend>
+                <br>
+                <br>
+                <label for="NEntidad">Nombre de la Entidad</label><br/>
+                <input type="text" name="Nentidad" id="NEntidad"><br/>
+                <label for="NCuenta">Nª de cuenta </label><br/>
+                <input type="text" name="Ncuenta" id="NCuenta"><br/>
+                </fieldset>
+                    </td>
+                        </tr>
+                        <tr>
+                    <td><button class="but" type="submit" name="EnviarPedido">ENVIAR <br> PEDIDO</button></td>
+                    <td><button type="reset" name="reset">RESET</button></td>
+                </tr>
+                    </table>
+                    </fieldset>
+            </div>
+    </form>
+</body>
+</html>

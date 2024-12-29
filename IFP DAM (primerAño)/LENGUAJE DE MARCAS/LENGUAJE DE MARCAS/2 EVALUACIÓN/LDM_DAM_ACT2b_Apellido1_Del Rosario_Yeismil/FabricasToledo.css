@@ -1,0 +1,77 @@
+div{
+    width: 1000px;
+    height: 900px;
+    background-color: beige;
+}
+
+fieldset{
+    background-color: lightgray;
+    border: 1px lightslategray solid;
+    border-bottom: 1px lightslategray dashed ;
+    border-top: 1px lightslategray dashed ;
+    width: 400px;
+    margin-left:20px;
+}
+
+legend {
+    text-align: right;
+    color: white;
+    background-color: lightslategray;
+    font-style: italic; 
+}
+
+h1, label, b{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+button{
+    background-color: lightslategray;
+    color:white;
+    border-left: lightslategray;
+    border-top: lightslategray;
+}
+
+fieldset.mini{
+    width: 120px;
+    height: 160px;
+    
+    margin: auto;
+}
+
+fieldset.mini2{
+    width: 130px;
+    height: 190px;
+    margin: auto;
+}
+
+fieldset.mini3{
+    width: 90px;
+    height: 190px;
+    margin: auto;
+}
+
+fieldset.padre{
+    margin-top: 40px;
+}
+
+.put{
+    width: 100%;
+    object-fit: cover;
+}
+
+.mento{
+    width:74%;
+    float:right;
+}
+
+.label{
+    width: 30%;
+}
+
+.but{
+    margin-left: 20px;
+}
+
+.flizq{
+    float:left;
+}

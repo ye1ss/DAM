@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ztktb+b+NKtTj9Dry1yDw5IEmBCnRKidL6PK+fpO/AuyvE1/5GXXlavlNTZeb3Vkw5zS8ZhcOcd0XiXD9iCxAQ==",
+  "success": true,
+  "projectFilePath": "D:\\YeismilIFP\\1Trimestre\\DesarrolloInterfaces\\DiseñoComponentesModernista\\DiseñoComponentesModernista\\DiseñoComponentesModernista.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alumno\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.23\\microsoft.netcore.app.runtime.win-x86.6.0.23.nupkg.sha512",
+    "C:\\Users\\Alumno\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.23\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.23.nupkg.sha512",
+    "C:\\Users\\Alumno\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.23\\microsoft.aspnetcore.app.runtime.win-x86.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

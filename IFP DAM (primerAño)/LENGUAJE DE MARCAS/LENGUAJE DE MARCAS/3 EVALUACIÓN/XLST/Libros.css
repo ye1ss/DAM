@@ -1,0 +1,15 @@
+body{
+    color: dark;
+    background-color: lightslategray;
+}
+h2{
+    color: brown;
+    background-color: yellow;
+}
+tr{
+    
+    background-color: aqua;
+}
+td{
+    background-color: blueviolet;
+}

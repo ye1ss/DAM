@@ -1,0 +1,30 @@
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.exe
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.deps.json
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.runtimeconfig.json
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.dll
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.pdb
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.csproj.AssemblyReference.cache
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.AssemblyInfoInputs.cache
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.AssemblyInfo.cs
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.dll
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\refint\PrimerosPasos.dll
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.pdb
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.genruntimeconfig.cache
+C:\Users\Alumno\OneDrive - IFP Formación Profesional\SegundoAñoDamYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\ref\PrimerosPasos.dll
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.exe
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.deps.json
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.runtimeconfig.json
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.dll
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.pdb
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.csproj.AssemblyReference.cache
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.AssemblyInfoInputs.cache
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.AssemblyInfo.cs
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.csproj.CoreCompileInputs.cache
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.dll
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\refint\PrimerosPasos.dll
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.pdb
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.genruntimeconfig.cache
+D:\IFPYeismil\1Trimestre\DesarrolloInterfaces\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\ref\PrimerosPasos.dll

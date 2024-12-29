@@ -1,0 +1,9 @@
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\ConsolaNugetEscuderia\ConsolaNugetEscuderia\bin\Debug\ConsolaNugetEscuderia.exe.config
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\ConsolaNugetEscuderia\ConsolaNugetEscuderia\bin\Debug\ConsolaNugetEscuderia.exe
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\ConsolaNugetEscuderia\ConsolaNugetEscuderia\bin\Debug\ConsolaNugetEscuderia.pdb
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\ConsolaNugetEscuderia\ConsolaNugetEscuderia\bin\Debug\EscuderiasNuget.dll
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\ConsolaNugetEscuderia\ConsolaNugetEscuderia\obj\Debug\ConsolaNugetEscuderia.csproj.AssemblyReference.cache
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\ConsolaNugetEscuderia\ConsolaNugetEscuderia\obj\Debug\ConsolaNugetEscuderia.csproj.CoreCompileInputs.cache
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\ConsolaNugetEscuderia\ConsolaNugetEscuderia\obj\Debug\ConsolaNugetEscuderia.csproj.CopyComplete
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\ConsolaNugetEscuderia\ConsolaNugetEscuderia\obj\Debug\ConsolaNugetEscuderia.exe
+D:\YeismilIFP\1Trimestre\DesarrolloInterfaces\ConsolaNugetEscuderia\ConsolaNugetEscuderia\obj\Debug\ConsolaNugetEscuderia.pdb

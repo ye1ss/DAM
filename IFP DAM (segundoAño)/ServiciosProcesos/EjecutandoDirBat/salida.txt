@@ -1,0 +1,24 @@
+Microsoft Windows [Versi¢n 10.0.19045.3208]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+D:\IFPYeismil\1Trimestre\ServiciosProcesos\EjecutandoDirBat>MKDIR NUEVO
+
+D:\IFPYeismil\1Trimestre\ServiciosProcesos\EjecutandoDirBat>CD NUEVO
+
+D:\IFPYeismil\1Trimestre\ServiciosProcesos\EjecutandoDirBat\NUEVO>ECHO creo un fichero nuevo > Mifichero.txt
+
+D:\IFPYeismil\1Trimestre\ServiciosProcesos\EjecutandoDirBat\NUEVO>DIR
+ El volumen de la unidad D es Datos
+ El n£mero de serie del volumen es: 4EA5-C48B
+
+ Directorio de D:\IFPYeismil\1Trimestre\ServiciosProcesos\EjecutandoDirBat\NUEVO
+
+27/09/2023  13:11    <DIR>          .
+27/09/2023  13:11    <DIR>          ..
+27/09/2023  13:11                24 Mifichero.txt
+               1 archivos             24 bytes
+               2 dirs  641.696.858.112 bytes libres
+
+D:\IFPYeismil\1Trimestre\ServiciosProcesos\EjecutandoDirBat\NUEVO>DIRR
+
+D:\IFPYeismil\1Trimestre\ServiciosProcesos\EjecutandoDirBat\NUEVO>¨M s? 

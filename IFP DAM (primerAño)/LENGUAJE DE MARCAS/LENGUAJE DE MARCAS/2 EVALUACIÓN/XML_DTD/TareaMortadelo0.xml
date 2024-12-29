@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE albumesMortadelo [
+    <!ELEMENT  albumesMortadelo (album*)>
+    <!ELEMENT album EMPTY>
+    <!ATTLIST album nombre CDATA #REQUIRED>
+    <!ATTLIST album fecha (1969|1970|1971|1972|1973|1974) #IMPLIED>
+]>
+<albumesMortadelo>
+    <album nombre="El sulfato atómico" fecha="1969"/>
+    <album nombre="La caja de diez cerrojos" fecha="1971"/>
+    <album nombre="El otro yo del profesor Bacterio" fecha="1973"/>
+    <album nombre="Los cacharros majaretas" fecha="1974"/>
+</albumesMortadelo>
+
+
+<!--
+    Opción 1. 
+    Genera un DTD interno que valide el código XML anterior 
+    El atributo fecha puede tomar un valor entre el rango de años de 1969 a 1974
+    Comprueba tu solución en el validador
+-->
+
+<!-- 
+    Opción 2.
+    Cambia el XML para que nombre y fecha sean etiquetas
+    Genera un DTD externo
+        La etiqueta fecha es opcional
+    Comprueba tu solución en el navegador
+
+-->

@@ -1,0 +1,58 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.18f|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+Npxgplugin.dll|$
+C:\Users\Alumno\Documents\Basilisk Portable with Flash\Plugins\SoundPlayback\Npxgplugin.dll|$
+5.0.0.68|$
+1577289112707|0|0|0|$
+MIDPLUG(TM) for XG ver1.01|$
+MIDPLUG for XG|$
+9
+0|audio/midi|MIDI|mid,midi|$
+1|audio/x-midi|MIDI|mid,midi|$
+2|audio/mid|MIDI|mid,midi|$
+3|audio/x-mid|MIDI|mid,midi|$
+4|audio/x-wav|WAVE|wav|$
+5|audio/wav|WAVE|wav|$
+6|audio/x-aiff|AIFF|aif,aiff|$
+7|audio/aiff|AIFF|aif,aiff|$
+8|audio/basic|AU|au|$
+npmod32.dll|$
+C:\Users\Alumno\Documents\Basilisk Portable with Flash\Plugins\SoundPlayback\npmod32.dll|$
+4.10.1.9|$
+1577289112770|0|0|0|$
+Module Plugin Library v1.91.05|$
+MOD Plugin|$
+8
+0|audio/x-mod|All Modules|mod,s3m,med,xm,it,mdz,itz,xmz,s3z|$
+1|audio/mod|ProTracker Modules|mod|$
+2|audio/x-zipped-mod|Zipped Modules|mdz|$
+3|audio/s3m|ScreamTracker Modules|s3m|$
+4|audio/x-s3m|ScreamTracker Modules|s3m|$
+5|audio/xm|FastTracker Modules|xm|$
+6|audio/x-zipped-it|Zipped IT Module|itz|$
+7|audio/it|Impulse Tracker Modules|it|$
+npsid.dll|$
+C:\Users\Alumno\Documents\Basilisk Portable with Flash\Plugins\SoundPlayback\npsid.dll|$
+1.0.0.1|$
+1577289112781|0|0|0|$
+SIDPLAY plug-in 1.2.15 for Win32, libsidplay 1.36.57|$
+  SIDPlug|$
+2
+0|audio/prs.sid|SID tunes|sid|$
+1|audio/x-sidtune|SID tunes|sid|$
+NPSWF32_32_0_0_363.dll|$
+C:\Users\Alumno\Documents\Basilisk Portable with Flash\Plugins\Flash\NPSWF32_32_0_0_363.dll|$
+32.0.0.363|$
+1608856010127|0|0|0|$
+Shockwave Flash 32.0 r0|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+
+[INVALID]

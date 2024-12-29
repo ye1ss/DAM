@@ -1,0 +1,10 @@
+    <dependencies>
+        <dependency>
+            <groupId>com.mysql</groupId>
+            	<artifactId>mysql-connector-j</artifactId>
+            <version>8.0.32</version>
+        </dependency>
+    </dependencies>
+
+luego le damos debajo de los proyectos a dependencies y descargas el bin de lo que extraimos
+

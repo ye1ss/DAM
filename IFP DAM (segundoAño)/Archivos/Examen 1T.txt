@@ -1,0 +1,29 @@
+PACO:
+saber todas las condiciones de datos, sacar datos, meterlos en una lista, saber hacer conversiones, las regexs lo de coger
+ficheros binarios pregunta poco, saber hacer ficheros leer escribir formaatear...
+sqlite controlar todos los metodos de apertura y cerrar la base de datos y pues eso conectar con la base de datos y saber hacer tablas y eso
+controlar bucle for
+saber separar cadenas con split y juntarlas con el join
+super importante las regular expresion
+sacar las palabras de un tecto que to quiera y meterlas en un duccionario
+REGULAR EXPRESION!!!!!!!!!!!
+
+ENRRIQUE:
+todo esto es en base al trabajo en equipo
+que es un prefav triger, rigid body
+hacer un repositprio como el ignore, hacerlo con el pull, push, commit...
+tipo de proyecto en unity cual hemos elegido porque el urpp...
+que es cine machine, animation, colaiders, game object, donde esta el inspector, los componentes, el transform, como estan hecho los scripts
+explicar para que funcionan las variables del video juego variables nuevas no las que ya sabemos ()
+
+JOSE ANTONIO:
+concetar base de datos con java saber hacer un fichero
+pude que sea hacer uno de ficheros y otro de base de datos 
+
+GARBIÑE:
+test, saber modelo osi(capas), comunicacion red, hilos, 
+hacer un programa de lo de los sokets e hilos
+
+MARLENE:
+nos va a poner un ejercicio mal hecho y vamos a decir que esta mal del UX, osea como esta visualmente y decir que esta mal de la tabla esa que nos dio
+que es UX tmbn

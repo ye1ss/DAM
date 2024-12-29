@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html lang="español">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fábricas Toledo</title>
+</head>
+<body>
+<form>
+    <table>
+        <tr>
+            <td>
+   <a href="https://turismo.toledo.es/"><img src="imagen/imagen toledo.PNG"></a>
+                </td>
+                <td>
+   <h1>Fábricas Toledo</h1> 
+                </td>
+            </tr>
+    </table>
+        <fieldset>
+            
+            <Legend>FORMULARIO DE PEDIDO</Legend>
+            <caption>>Paso 1.Identificación</caption>
+            <table>
+            <tr>
+                <td>
+            <fieldset>
+                <legend>Datos del cliente</legend>
+                Correo Electrónico:
+                <input type="email" id="email" name="email" ><br><br/>
+                Contraseña:
+                <input type="contraseña" id="contraseña" name="contraseña"><br><br>
+            </fieldset>
+                </td>
+                <td>
+                <fieldset>
+                    <legend>Tipo de cliente</legend>
+                    <input type="radio" name="cliente">Particular<br>
+                    <input type="radio" name="cliente">Asociación<br>
+                    <input type="radio" name="cliente">Empresa<br><br>
+                </fieldset>
+                </td>
+            </tr>
+        </table>
+    <img/>
+    <caption>>Paso 1.Pedido</caption>
+    <table>
+        <tr>
+            <td>
+    <fieldset>
+        <legend>Datos del Producto</legend>
+        Producto:<br>
+        <select name="instrumento" size="7" multiple="">
+            <optgroup label="Armaduras">
+                <option>AR001 Oro Reluciente</option>
+                <option>AR002 Plata Pulida</option>
+                <option>AR003 Bronze Reforzado</option>
+            </optgroup> 
+            <optgroup label="Extras">
+                <option>EX001 Escudo</option>
+                <option>EX002 Cota de malla</option>
+            </optgroup>
+        </select>
+    </fieldset>
+            </td>
+            <td>
+    <fieldset>
+        <legend>Información de Interés</legend>
+        Comentarios<br>
+        <textarea cols="50" rows="9"></textarea>
+    </fieldset>
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <td>
+    <fieldset>
+        <legend>Datos de Envío</legend>
+        Dirección<br>
+        <input type="direcion" id="Dirección"><br><br/>
+        Ciudad
+        <input type="Ciudad" id="Ciudad"><br><br/>
+        Código postal
+        <input type="Código postal" id="Código postal"><br><br/>
+    </fieldset>
+        </td>
+        <td>
+    <fieldset>
+        <legend>Datos Bancarios</legend>
+        Nombre de la Entidad
+        <input type="Nombre de la Entidad" id="Nombre de la Entidad"><br><br/>
+        Nº de cuenta
+        <input type="Nº de cuenta" id="Nº de cuenta"><br><br/>
+    </fieldset>
+        </fieldset>
+            <button type="reset">RESET</button>
+            </td>
+        </tr>
+    </table>
+    <button type="submit">ENVIAR <br> PEDIDO</button> 
+</form>
+</body>
+</html>

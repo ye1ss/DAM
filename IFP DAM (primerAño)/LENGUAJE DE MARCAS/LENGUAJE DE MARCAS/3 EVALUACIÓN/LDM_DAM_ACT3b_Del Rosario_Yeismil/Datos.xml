@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Curriculum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Datos.xsd">
+    <datosPersonales>
+        <nombre>Yeismil</nombre>
+        <apellido>Del Rosario</apellido>
+        <sexo>masculino</sexo>
+        <fechaNacimiento>29/04/2002</fechaNacimiento>
+        <Nacionalidad>Dominicana y Española</Nacionalidad>
+        <DNI>54495517F</DNI>
+    </datosPersonales>
+    <datosContacto>
+        <tipoVia>Calle</tipoVia>
+        <nombre>Isla de Corcega</nombre>
+        <numero>20</numero>
+        <puerta>20</puerta>
+        <codigoPostal>28100</codigoPostal>
+        <pais>España</pais>
+        <email>yeismil18@gmail.com</email>
+        <telefono>672442215</telefono>
+    </datosContacto>
+    <formacion>
+        <titulo>
+            <tituloObtenido>ESO</tituloObtenido>
+            <fechaInicio>20/10/2015</fechaInicio>
+            <fechaFin>13/05/2020</fechaFin>
+            <institucion>Miguel Delibes</institucion>
+        </titulo>
+        <titulo>
+            <tituloObtenido>Actividades Comerciales</tituloObtenido>
+            <fechaInicio>20/10/2020</fechaInicio>
+            <fechaFin>14/05/2022</fechaFin>
+            <institucion>IES Vigen de la Paz</institucion>
+            <nombreTitulo>Grado Medio</nombreTitulo>
+        </titulo>
+    </formacion>
+    <idiomas>
+        <lenguaMaterna>Español</lenguaMaterna>
+        <idioma>Ingles</idioma>
+        <nivel>medio</nivel>
+    </idiomas>
+    <experienciaLaboral>
+        <trabajo>
+            <lugar>Dominos Pizza</lugar>
+            <cargo>Sala</cargo>   
+        </trabajo>
+        <trabajo>
+            <lugar>Telepizza</lugar>
+            <cargo>Repartidor</cargo>   
+        </trabajo>
+        <trabajo>
+            <lugar>Goiko Grill</lugar>
+            <cargo>Aydante de Cocinero</cargo>   
+        </trabajo>
+        <trabajo>
+            <lugar>Dominos Pizza</lugar>
+            <cargo>Repartidor</cargo>   
+        </trabajo>
+    </experienciaLaboral>
+    <competenciasInformaticas>
+        <software>
+            <nombre>Windows</nombre>
+            <nivel>medio</nivel>
+        </software>
+    </competenciasInformaticas>
+    <datosAdicionales>
+        <aficciones>Juegos de Ordenador</aficciones>
+        <vehiculoPropio>si</vehiculoPropio>
+        <disponibilidadViajes>si</disponibilidadViajes>
+    </datosAdicionales>
+
+</Curriculum>

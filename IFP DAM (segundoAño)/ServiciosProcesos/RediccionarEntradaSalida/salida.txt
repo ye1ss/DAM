@@ -1,0 +1,14 @@
+ El volumen de la unidad D es Datos
+ El n£mero de serie del volumen es: 4EA5-C48B
+
+ Directorio de D:\IFPYeismil\1Trimestre\ServiciosProcesos\RediccionarEntradaSalida
+
+27/09/2023  12:30    <DIR>          .
+27/09/2023  12:30    <DIR>          ..
+27/09/2023  12:33                 0 error.txt
+27/09/2023  12:24               782 pom.xml
+27/09/2023  12:33                 0 salida.txt
+27/09/2023  12:25    <DIR>          src
+27/09/2023  12:30    <DIR>          target
+               3 archivos            782 bytes
+               4 dirs  641.696.878.592 bytes libres

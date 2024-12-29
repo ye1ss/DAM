@@ -1,0 +1,11 @@
+A partir del siguiente modelo ER (https://josejuansanchez.org/bd/ejercicios-consultas-sql/index.html) hacer la 1.3
+
+1-Crea las tablas correspondientes en una base de datos que se llame ventas osea que las tablas esten dentro de ventas esto en sql (2puntos).
+
+2-Las diez consultas que vienen en la tabla (0,4 cada consulta bien hecha).
+
+3-Las 7 consultas multitabla (0,25puntos).
+
+4-Crea una aplicacion que permita insertar listar y eliminar registros de la base de datos ventas y concretamente de la tabla comercial ventas
+ (Java y conectarlo con la base de datos) (0,75puntos cada apartado bien hecho).
+ 
